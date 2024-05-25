@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Hi , Friends!</title>
+</head>
+
+<body>
+<h1>My name is Aayush Kumar Thory!</h1>
+<p>I am a student and my hobby is to play online games and I study in class 8th c!</p>
+<br>
+I want to become a IPS officer!</br>
+</body>
+</html>
